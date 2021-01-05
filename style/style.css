@@ -1,0 +1,15 @@
+
+body {
+    text-align:center;
+    background: white;
+}
+p {
+    margin-bottom:60px;
+}
+svg {
+    margin:20px;
+    border:0px;
+}
+img {
+    margin: 20px;
+  }
