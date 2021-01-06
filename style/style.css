@@ -12,3 +12,7 @@ img {
 a {
     text-decoration: none;
   }
+footer{
+    width:100%;
+    font-style: italic;
+}
