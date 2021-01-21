@@ -2,21 +2,23 @@ html,
 body {
     height: 100%;
 }
+
 .p {
     margin-bottom:40px;
 }
 
 .align-center {
     text-align: center;
+    font-style: italic;
 }
 
 .img {
     margin: 10px;
-  }
+}
 
 .a {
     text-decoration: none;
-  }
+}
 
 .wrap {
     min-height: 100%;

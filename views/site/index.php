@@ -82,11 +82,11 @@ $this->title = 'Sylvain MILLET';
 			Now you see me...
 		</p>
 		<a href="http://www.linkedin.com/in/sylvain-millet-b132028b/">
-			<img src="../files/linkedin.png" alt="linkedin" width="50" height="50">
+			<img src="..\files\linkedin.png" alt="linkedin" width="50" height="50">
 		</a>
 
 		<a href="http://twitter.com/sylvainpmillet">
-			<img src="../files/twitter.png" alt="twitter" width="50" height="50">
+			<img src="..\files\twitter.png" alt="twitter" width="50" height="50">
 		</a>
 	</div>
 
