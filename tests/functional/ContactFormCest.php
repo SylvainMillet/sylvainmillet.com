@@ -45,7 +45,7 @@ class ContactFormCest
     {
         $I->submitForm('#contact-form', [
             'ContactForm[name]' => 'tester',
-            'ContactForm[email]' => 'tester@example.com',
+            'ContactForm[email]' => 'sylvain@sylvainmillet.com',
             'ContactForm[subject]' => 'test subject',
             'ContactForm[body]' => 'test content',
             'ContactForm[verifyCode]' => 'testme',

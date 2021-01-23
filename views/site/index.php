@@ -1,5 +1,5 @@
 <?php
-$this->title = 'Sylvain MILLET';
+	$this->title = 'Sylvain MILLET';
 ?>
 
 <div class="site-index">
