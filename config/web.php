@@ -33,7 +33,7 @@ $config = [
                 'class' => 'Swift_SmtpTransport',
                 'host' => 'smtp.ionos.fr',
                 'username' => 'sylvain@sylvainmillet.com',
-                'password' => 'Jo@chim73200',
+                'password' => 'password',
                 'port' => '587',                             
                 'encryption' => 'tls'
             ],
